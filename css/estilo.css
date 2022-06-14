@@ -1,0 +1,13 @@
+.diff-icon {
+    font-size: 5rem !important;
+}
+
+.diff-card {
+    margin-top: 20px;
+    transition: 0.5s;
+}
+
+.diff-card:hover {
+    margin-top: 0px;
+    transition: 0.5s;
+}
