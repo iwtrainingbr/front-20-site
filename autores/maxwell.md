@@ -2,8 +2,8 @@
 
 >>> Desenvolvedor FrontEnd
 
-###Skills:
--HTML
--CSS
--BOOTSTRAP
--JAVASCRIPT
+### Skills:
+- HTML
+- CSS
+- BOOTSTRAP
+- JAVASCRIPT
