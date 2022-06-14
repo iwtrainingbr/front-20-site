@@ -7,3 +7,5 @@
 - HTML
 - CSS
 - JAVASCRIPT
+
+Email: rachel.alb.97@hotmail.com
