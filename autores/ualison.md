@@ -6,3 +6,5 @@
 - HTML
 - CSS
 - JAVASCRIPT
+
+email: ualisonlimaas@gmail.com
