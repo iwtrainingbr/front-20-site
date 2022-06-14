@@ -1,6 +1,9 @@
 # Stefan Herbster
 
->>>Dev Fullstack
+>>>Aprendiz de  Fullstack
+
+Email: stefanherbster.dev@gmail.com
+
 
 ### Skills
 - Html
