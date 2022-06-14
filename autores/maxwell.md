@@ -2,6 +2,8 @@
 
 >>> Desenvolvedor FrontEnd
 
+Email: Localizameucarro@gmail.com
+
 ### Skills:
 - HTML
 - CSS
