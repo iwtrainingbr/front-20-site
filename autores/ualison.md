@@ -3,6 +3,6 @@
 >>> Desenvolvedor Front-end
 
 ### skills
--HTML
--CSS
--JAVASCRIPT
+- HTML
+- CSS
+- JAVASCRIPT
