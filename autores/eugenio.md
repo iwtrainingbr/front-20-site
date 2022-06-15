@@ -2,6 +2,8 @@
 
 >>>> Desenvolvedor FrontEnd
 
-- javaScript
+email: pacelli.lopes@hotmail.com
+
+- javaScriptgit
 - html
 - css
