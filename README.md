@@ -15,6 +15,15 @@ cd front-20-site
 #### Status das alterações
 `git status`
 
+#### Voltar pro branch principal
+`git checkout main`
+
+#### Atualizar sua branch principal
+`git pull origin main`
+
+#### Criar um novo branch e selecionar ele
+`git checkout -b nome-da-branch`
+
 #### Adicionar arquivos modificados
 `git add .`
 
@@ -22,7 +31,4 @@ cd front-20-site
 `git commit -m "descreva sua alteração"`
 
 #### Envie suas alterações
-`git push origin main`
-
-
-mmit =
+`git push origin nome-da-branch`
